@@ -45,7 +45,6 @@ questions = [
         "answer": "Blue whale"
     }
 ]
-
 # Create quiz instance and start the quiz
 quiz = Quiz(questions)
 quiz.start_quiz()
